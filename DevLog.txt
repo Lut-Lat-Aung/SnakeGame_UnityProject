@@ -1,1 +1,2 @@
 This is practice for SnakeGame
+This is the practice for Snakegame
